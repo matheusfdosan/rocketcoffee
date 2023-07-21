@@ -1,7 +1,7 @@
-<h1 align="center"> Desafio RocketCoffee by Rocketseat</h1>
+<h1 align="center"> RocketCoffee </h1>
 
 <p align="center">
-Neste desafio você deverá desenvolver uma homepage para uma marca de café.
+ Esse projeto é uma homepage para uma marca de café.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma característica principal desta página web é sua responsividadem se adaptando a tamanhos de telas diferentes. Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/desafio-rocketcoffee-rocketseat/).
+Uma característica principal desta página web é sua responsividadem se adaptando a tamanhos de telas diferentes. Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/rocketcoffee/).
 
 ## 🔖 Layout
 
